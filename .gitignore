@@ -17,4 +17,12 @@ cmake-build-release/
 liblsl.deb
 install-qt.sh
 .DS_Store
+*.xdf
+
+# Virtual Environment
+.env
+.venv
+env/
+venv/
+ENV/
 
